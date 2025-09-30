@@ -1,3 +1,5 @@
+![Lint](https://github.com/ibhadeA/project1-gce-website/actions/workflows/lint.yml/badge.svg)
+
 # Project 1 — Static Website on Google Compute Engine (London)
 
 **Project ID:** `web-demo-473709`  
